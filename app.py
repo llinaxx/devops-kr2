@@ -1,3 +1,4 @@
+# KR2: Гревцева
 import os
 import socket
 
